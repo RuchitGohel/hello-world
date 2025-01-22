@@ -15,6 +15,7 @@ namespace FirstProg
             Console.WriteLine("Change has been made to the file.");
             Console.WriteLine("Change has been made to the file.");
             Console.WriteLine("Change has been made to the file.");
+            Console.WriteLine("Came here after deleting emergency-fix branch.");
         }
     }
 }
