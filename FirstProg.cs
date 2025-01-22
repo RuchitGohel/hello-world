@@ -11,6 +11,7 @@ namespace FirstProg
         static void Main(string[] args)
         {
             Console.WriteLine("Hello world!");
+            Console.WriteLine("Change has been made to the file.");
         }
     }
 }
